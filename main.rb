@@ -1,5 +1,3 @@
-require "pry"
-
 CHILD_NAME = "ミスちゃん"
 ADULT_NAME = "ライトさん"
 
