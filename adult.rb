@@ -1,3 +1,3 @@
 class Adult
-
+  
 end
