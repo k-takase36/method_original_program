@@ -1,5 +1,6 @@
 require_relative "word"
 require_relative "child"
+require_relative "adult"
 
 CHILD_NAME = "ミスちゃん"
 ADULT_NAME = "ライトさん"
