@@ -1,5 +1,6 @@
 require "csv"
 class Word
+  attr_reader :mistake, :right
   def initialize(mistake:, right:)
     @mistake= mistake
     @right = right
